@@ -1,4 +1,4 @@
-# fake-mail
+# Article Classification
 This Python script is designed to classify mail articles as reliable or unreliable based on their content. It utilizes a pre-trained natural language processing model to make predictions.
 
 ## Dataset
@@ -52,7 +52,7 @@ Fine-tune hyperparameters for better model performance.
 Gather more labeled data for improved accuracy.
 ## References
 
-- Author: Mirza Salman
-- Contact: salmansaluu661@gmail.com
+- Author: Muhammad Mubashir Ali
+- Contact: Muhammadmubashirali63@gmail.com
 
 Feel free to customize this README to include any additional information you want to provide about the project.
